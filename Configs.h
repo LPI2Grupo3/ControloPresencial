@@ -2,7 +2,7 @@
  * Configs.h
  *
  * Created: 12/07/2014 22:24:25
- *  Author: TiagoSousa
+ *  Author: LPI2Grupo3 2013/2014
  */ 
 
 #ifndef CONFIGS_H_
